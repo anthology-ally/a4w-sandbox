@@ -10,4 +10,4 @@ $ bundle exec jekyll serve
 
 To update, push a change to master.
 
-Sometimes it just tails to publish, though. For no reason.
+Sometimes it just tails to publish, though. For no reason. Did it again.
