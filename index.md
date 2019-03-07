@@ -7,7 +7,7 @@
 
 [files/hirsimaa_christoffer_OCH_nycander_martin_K10036.pdf](./files/hirsimaa_christoffer_OCH_nycander_martin_K10036.pdf)
 
-[files/03_Peterson-ch1/03_Peterson-ch1.pdf](./files/03_Peterson-ch1/03_Peterson-ch1.pdf)
+[files/03_Peterson-ch1/03_Peterson-ch1.pdf](./files/03_Peterson-ch1.pdf)
 
 ## PDF Downloads Outside the Client Domain
 
