@@ -14,3 +14,11 @@
 ## PDF Downloads Outside the Client Domain
 
 [Homework: An analysis](https://www.nfer.ac.uk/publications/HWK01/HWK01.pdf)
+
+## Word Downloads on the Client Domain
+
+[A long document name that could probably be made shorter if we really just put some thought into it](files/Word2003Longer.doc)
+
+## PowerPoint Downloads on the Client Domain
+
+[http://fronteer.io/a4w-sandbox/files/PowerPoint2007Longer.pptx](files/PowerPoint2007Longer.pptx)
