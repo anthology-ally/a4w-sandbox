@@ -9,6 +9,8 @@
 
 [files/03_Peterson-ch1/03_Peterson-ch1.pdf](./files/03_Peterson-ch1.pdf)
 
+[Scanned and not OCRed](./files/scanned.pdf)
+
 ## PDF Downloads Outside the Client Domain
 
 [Homework: An analysis](https://www.nfer.ac.uk/publications/HWK01/HWK01.pdf)
