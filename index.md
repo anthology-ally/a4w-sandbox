@@ -23,8 +23,12 @@
 
 [http://fronteer.io/a4w-sandbox/files/PowerPoint2007Longer.pptx](files/PowerPoint2007Longer.pptx)
 
-## Image Downloadso n the Client Domain
+## Image Downloads on the Client Domain
 
 [Images don't have alternative formats you silly goose](./files/myimage.png)
 
 [Look at me, I'm an activity](./files/mocking_an_activity.gif)
+
+## Embedded Images
+
+![A collection of multiple devices showing screenshots of Ally Institutional Report functionality](./files/ally-for-lms.png)
