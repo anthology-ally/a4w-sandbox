@@ -32,3 +32,7 @@
 ## Embedded Images
 
 ![A collection of multiple devices showing screenshots of Ally Institutional Report functionality](./files/ally-for-lms.png)
+
+## Funny links
+
+[This has a trailing slash with a query string](/a4w-sandbox/?this=one&is=great)
