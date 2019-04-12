@@ -36,3 +36,4 @@
 ## Funny links
 
 [This has a trailing slash with a query string](/a4w-sandbox/?this=one&is=great)
+[SafeLinks from outlook](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchivesmonthphilly.com%2F2018%2F01%2F01%2Fdrinks-in-the-archives-october-10-2018%2F&data=02%7C01%7C%7C7b5ba76df26b468a2b1208d622fd1480%7C3664e6fa47bd45a696708c4f080f8ca6%7C0%7C0%7C636734867685788286&sdata=PRIJ6yQ65hSM4WqcfBCCDuOfBUhhy4wdvQM5yzfApTc%3D&reserved=0)
