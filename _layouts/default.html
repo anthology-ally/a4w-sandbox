@@ -30,16 +30,24 @@
       <script>
         var qs = url('?');
         var style = qs['style'] || 'flag_small';
-        $('<script/>').attr({
-            'type': 'text/javascript',
-            'src': 'https://performance.ally.ac/integration/api/ally.ui.js',
+
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://performance.ally.ac/integration/api/ally.ui.js';
+        script.setAttribute('data-ally-loader', '');
+        script.setAttribute('data-ally-platform-name', 'web');
+        script.setAttribute('data-ally-client-id', '5660');
+        script.setAttribute('data-ally-af-style', style);
+        document.getElementsByTagName('head')[0].appendChild(script);
+
+        /*$('<div/>').attr({
             'data-ally-loader': '',
             'data-ally-platform-name': 'web',
             'data-ally-client-id': '5660',
             'data-ally-af-style': style
-        }).appendTo('body')
+        }).appendTo('body')*/
       </script>
-      <script type="text/javascript" src="https://performance.ally.ac/integration/api/ally.ui.js"></script>
+      <!-- <script type="text/javascript" src="https://performance.ally.ac/integration/api/ally.ui.js"></script> -->
     </main>
   </body>
 </html>
