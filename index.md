@@ -3,9 +3,9 @@
 
 ## PDF Downloads on the Client Domain
 
-[files/Personalizing Web Search using Long Term Browsing History.pdf](./files/Personalizing Web Search using Long Term Browsing History.pdf)
+[Ally One Pager](./files/Ally - One Pager - Higher Ed - General.pdf)
 
-[files/hirsimaa_christoffer_OCH_nycander_martin_K10036.pdf](./files/hirsimaa_christoffer_OCH_nycander_martin_K10036.pdf)
+[files/Personalizing Web Search using Long Term Browsing History.pdf](./files/Personalizing Web Search using Long Term Browsing History.pdf)
 
 [files/03_Peterson-ch1/03_Peterson-ch1.pdf](./files/03_Peterson-ch1.pdf)
 
