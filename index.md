@@ -33,6 +33,10 @@
 
 ![A collection of multiple devices showing screenshots of Ally Institutional Report functionality](./files/ally-for-lms.png)
 
+## Seizure inducing images
+
+[A seizure inducing image. DO NOT CLICK if you suffer from epilepsy](./files/seizure-inducing.gif)
+
 ## Funny links
 
 [This has a trailing slash with a query string](/a4w-sandbox/?this=one&is=great)
