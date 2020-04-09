@@ -35,10 +35,10 @@
 
         var script = document.createElement('script');
         script.type = 'text/javascript';
-        script.src = 'https://performance.ally.ac/integration/api/ally.ui.js';
+        script.src = 'https://{{ page.hostname }}.ally.ac/integration/api/ally.ui.js';
         script.setAttribute('data-ally-loader', '');
         script.setAttribute('data-ally-platform-name', 'web');
-        script.setAttribute('data-ally-client-id', '5660');
+        script.setAttribute('data-ally-client-id', {{ page.clientId }});
         script.setAttribute('data-ally-af-style', style);
         document.getElementsByTagName('head')[0].appendChild(script);
       </script>
