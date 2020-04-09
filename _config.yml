@@ -1,2 +1,13 @@
 theme: jekyll-theme-cayman
 title: Ally4Web Dev Sandbox Site!
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
+defaults:
+  - scope:
+      path: _pages/production
+    values:
+      layout: default
