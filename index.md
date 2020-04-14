@@ -1,4 +1,3 @@
-
 # Welcome
 
 ## List of sandbox sites
