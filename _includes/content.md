@@ -3,13 +3,13 @@
 
 ## PDF Downloads on the Client Domain
 
-[Ally One Pager](./files/Ally - One Pager - Higher Ed - General.pdf)
+[Ally One Pager](/files/Ally - One Pager - Higher Ed - General.pdf)
 
-[files/Personalizing Web Search using Long Term Browsing History.pdf](files/Personalizing%20Web%20Search%20using%20Long%20Term%20Browsing%20History.pdf)
+[files/Personalizing Web Search using Long Term Browsing History.pdf](/files/Personalizing%20Web%20Search%20using%20Long%20Term%20Browsing%20History.pdf)
 
-[files/03_Peterson-ch1/03_Peterson-ch1.pdf](files/03_Peterson-ch1.pdf)
+[files/03_Peterson-ch1/03_Peterson-ch1.pdf](/files/03_Peterson-ch1.pdf)
 
-[Scanned and not OCRed](files/scanned.pdf)
+[Scanned and not OCRed](/files/scanned.pdf)
 
 ## PDF Downloads Outside the Client Domain
 
@@ -17,25 +17,25 @@
 
 ## Word Downloads on the Client Domain
 
-[A long document name that could probably be made shorter if we really just put some thought into it](files/Word2003Longer.doc)
+[A long document name that could probably be made shorter if we really just put some thought into it](/files/Word2003Longer.doc)
 
 ## PowerPoint Downloads on the Client Domain
 
-[http://fronteer.io/a4w-sandbox/files/PowerPoint2007Longer.pptx](files/PowerPoint2007Longer.pptx)
+[http://fronteer.io/a4w-sandbox/files/PowerPoint2007Longer.pptx](/files/PowerPoint2007Longer.pptx)
 
 ## Image Downloads on the Client Domain
 
-[Images don't have alternative formats you silly goose](./files/myimage.png)
+[Images don't have alternative formats you silly goose](/files/myimage.png)
 
-[Look at me, I'm an activity](./files/mocking_an_activity.gif)
+[Look at me, I'm an activity](/files/mocking_an_activity.gif)
 
 ## Embedded Images
 
-![A collection of multiple devices showing screenshots of Ally Institutional Report functionality](files/ally-for-lms.png)
+![A collection of multiple devices showing screenshots of Ally Institutional Report functionality](/files/ally-for-lms.png)
 
 ## Seizure inducing images
 
-[A seizure inducing image. DO NOT CLICK if you suffer from epilepsy](files/seizure-inducing.gif)
+[A seizure inducing image. DO NOT CLICK if you suffer from epilepsy](/files/seizure-inducing.gif)
 
 ## Funny links
 
