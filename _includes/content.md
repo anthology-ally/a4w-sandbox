@@ -3,7 +3,7 @@
 
 ## PDF Downloads on the Client Domain
 
-[Ally One Pager](/files/Ally - One Pager - Higher Ed - General.pdf)
+[Ally One Pager](/a4w-sandbox/files/Ally - One Pager - Higher Ed - General.pdf)
 
 [files/Personalizing Web Search using Long Term Browsing History.pdf](/a4w-sandbox/files/Personalizing%20Web%20Search%20using%20Long%20Term%20Browsing%20History.pdf)
 
