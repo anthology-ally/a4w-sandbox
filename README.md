@@ -3,9 +3,10 @@
 Run locally with:
 
 ```
+$ npm install -g yarn
 $ gem install bundler
 $ bundle install
-$ bundle exec jekyll serve
+$ yarn start
 ```
 
 To update, push a change to master.

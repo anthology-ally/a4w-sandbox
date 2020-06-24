@@ -1,0 +1,8 @@
+{
+  "name": "a4w-sandbox",
+  "version": "0.0.1",
+  "repository": "https://github.com/fronteerio/a4w-sandbox.git",
+  "scripts": {
+    "start": "bundle exec jekyll serve --ssl-key ./_ssl/selfsigned.key --ssl-cert ./_ssl/selfsigned.crt"
+  }
+}

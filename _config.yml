@@ -15,3 +15,8 @@ defaults:
       path: _pages/production
     values:
       layout: default
+
+webrick:
+  headers:
+    X-Frame-Options: deny
+    Content-Security-Policy: frame-ancestors 'self' https://*.ally.ac
