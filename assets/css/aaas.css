@@ -1,0 +1,16 @@
+
+form div.row {
+    margin-bottom: 10px;
+}
+
+form label {
+    display: flex;
+    flex-direction: row;
+}
+
+form label span {
+    min-width: 180px;
+}
+form label input[type="text"] {
+    min-width: 100%;
+}
