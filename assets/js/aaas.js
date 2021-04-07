@@ -3,7 +3,7 @@
     const baseUrl = `https://${getAllyHostname()}`;
 
     $(document).ready(function() {
-        $('button[type="submit"]').click(loadAlly)
+        $('button').click(loadAlly)
     });
 
     function loadAlly() {
