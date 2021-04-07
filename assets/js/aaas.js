@@ -10,20 +10,22 @@
         const clientId = getClientId();
         const applicationSecret = getApplicationSecret();
         const contentHash = getContentHash();
+        const downloadUrl = getDownloadUrl();
         console.log(`Client id: ${clientId}`);
         console.log(`Application secret: ${applicationSecret}`);
         console.log(`Content hash: ${contentHash}`);
-        if (!clientId || !applicationSecret || !contentHash) {
+        console.log(`Download url: ${downloadUrl}`);
+        if (!clientId || !applicationSecret || !contentHash || !downloadUrl) {
             window.alert('Missing data');
             return;
         }
 
         $('#source').attr('data-ally-aaas-content-hash', contentHash);
-
+        $('#source').attr('data-ally-download-url', downloadUrl);
 
         const policy = generateFormatRequestPolicy(contentHash);
         const token = generateSignature(clientId, applicationSecret, policy);
-        console.log('Policy:');
+        console.log('Policy:')
         console.log(JSON.stringify(policy, null, 2));
         console.log(`Token: ${token}`);
 
