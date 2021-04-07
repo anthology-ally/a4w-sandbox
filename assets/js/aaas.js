@@ -27,6 +27,8 @@
         console.log(JSON.stringify(policy, null, 2));
         console.log(`Token: ${token}`);
 
+        document.getElementById('loading').style.display = 'block';
+
         // Fire up thge Ally UI
         if (!window.ui) {
             window.ui = true;
