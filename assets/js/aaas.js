@@ -21,9 +21,9 @@
         $('#source').attr('data-ally-aaas-content-hash', contentHash);
 
 
-        const policy = generateAllowAllPolicy();
+        const policy = generateFormatRequestPolicy(contentHash);
         const token = generateSignature(clientId, applicationSecret, policy);
-        console.log('Policy:')
+        console.log('Policy:');
         console.log(JSON.stringify(policy, null, 2));
         console.log(`Token: ${token}`);
 
@@ -36,8 +36,7 @@
                 window.ui = ally.ui({
                     'client': {
                         'auth': (hashId) => {
-                            const policy = (hashId) ? generateFormatRequestPolicy(hashId) : generateBatchPolicy()
-                            return Promise.resolve({'bearer': generateSignature(clientId, applicationSecret, policy)})
+                            return Promise.resolve({'bearer': token})
                         },
                         'baseUrl': baseUrl,
                         'clientId': getClientId()
