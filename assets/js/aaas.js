@@ -118,6 +118,10 @@
         return $('#contentHash').val();
     }
 
+    function getDownloadUrl () {
+        return $('#downloadUrl').val();
+    }
+
     function getAllyHostname() {
         return $('script[data-ally-loader]').attr('src').split('/')[2];
     }
